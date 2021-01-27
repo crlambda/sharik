@@ -492,3 +492,57 @@ tr:
 
 
     Sharik'i hemen şimdi indirin!
+
+zh_tw:
+  # 50 characters
+  Name: "Sharik - 透過 WI-FI 分享檔案"
+  # 60 characters
+  Very short description: "Sharik 可讓您在區域網路內輕鬆分享檔案"
+  # 80 characters
+  Short description: "一個開源，跨平台區域網路分享檔案的解決方案"
+  # 4000 characters
+  Full description: |
+    Sharik 為一個開源，跨平台透過Wi-Fi或是行動熱點分享檔案的解決方案。
+
+
+    這個應用程式讓您能簡單地分享相片、應用程式、檔案、文字、基本上任何東西，至所有連結到相同區域網路的裝置上。它非常方便且快如閃電。 
+
+    在您選擇語言且瀏覽過介紹後，您可以看到分享按鈕和您最近分享過的檔案。在這點上，您可以分享圖片、檔案、已安裝的應用程式，或是純文字。在選擇檔案後，螢幕會顯示分享畫面。在此處您可以看到您的連接狀態(Wi-Fi/行動熱點)和您需要在另一個裝置上開起的鍵結。在另一個機器的瀏覽器中輸入鍵結且確認輸入後，檔案將會開始下載。請確保兩個裝置連接到相同的網路
+    
+    假設您已經在兩個裝置安裝Sharik。在這種情況下，從一台主機分享檔案後，您可以簡單地點擊另一個裝置上Sharik按鈕面板中的"接收"按鈕。點擊後，接收畫面將會顯示。若Sharik看見另一個裝置在區域網路中分享了一些東西，它將會顯示。所以您可以僅點擊它，瀏覽器將會開啟，下載將會開始。
+
+    使用 Sharik 是完全免費，且它並不包含任何廣告。此外，它的原始碼被發佈在GitHub上，因此所有人可以對開發過程貢獻。如果您喜歡此軟體，請在您的GitHuby資料庫中留下一個星星，並且考慮對專案做出一些貢獻：增加新語言翻譯或是協助我們的程式碼。
+
+    Sharik 使用 Dart, Flutter, Hover.build, 和 Golang 開發。Sharik是根據開放許可（MIT）發行的。
+
+
+
+    您可以傳送:
+      1. 相片 (jpg, png, gif, 等等)
+      2. 應用程式 (apk)
+      3. 檔案 (zip, rar, 7z, pdf, 等等)
+      4. 純文字
+
+    Sharik 支援其他語言:
+      - English (English)
+      - Arabic (عربي)
+      - Hindi (हिन्दी)
+      - Russian (Русский)
+      - Gujarati (ગુજરાતી)
+      - Polski (Polski)
+      - Ukrainian (Українська)
+      - Slovak (Slovenčina)
+      - Turkish (Türkçe)
+      - Traditional Chinese (繁體中文)
+
+    SHARIK 也支援其他平台:
+      - Windows
+      - macOS
+      - Linux
+      - Android
+      - iOS
+
+    GitHub 頁面: https://github.com/marchellodev/sharik
+
+
+    現在就下載 Sharik 吧!
